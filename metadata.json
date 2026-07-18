@@ -1,0 +1,6 @@
+{
+  "name": "Math Center ERP",
+  "description": "An educational center ERP system for mathematics tutoring, featuring student directory, smart attendance, grades, and fee management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
